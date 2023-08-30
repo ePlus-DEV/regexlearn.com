@@ -1,7 +1,7 @@
-# **🔓 [regexlearn.com](http://regexlearn.com/): Unlock the Secrets of Regex**
+# **🔓 [regexlearn.eplus.dev](https://regexlearn.eplus.dev/): Unlock the Secrets of Regex**
 
 Embark on an exciting journey to learn and master regular expressions with
-**[regexlearn.com](https://regexlearn.com/)**. Our engaging, step-by-step approach and feature-rich
+**[regexlearn.com](https://regexlearn.eplus.dev/)**. Our engaging, step-by-step approach and feature-rich
 platform ensure a smooth learning experience that will have you writing regex like a pro in no time!
 
 <br>
@@ -38,12 +38,12 @@ the way:
 - 🇫🇷 French
 - 🇵🇱 Polish
 - 🇰🇷 Korean
-- 🇦🇪 Arabic [(Requested)](https://github.com/aykutkardas/regexlearn.com/issues/163)
-- 🇧🇷 Brazilian Portuguese [(Requested)](https://github.com/aykutkardas/regexlearn.com/issues/39)
-- 🇬🇪 Georgian [(Requested)](https://github.com/aykutkardas/regexlearn.com/issues/274)
+- 🇦🇪 Arabic [(Requested)](https://github.com/ePlus-DEV/regexlearn.com/issues/163)
+- 🇧🇷 Brazilian Portuguese [(Requested)](https://github.com/ePlus-DEV/regexlearn.com/issues/39)
+- 🇬🇪 Georgian [(Requested)](https://github.com/ePlus-DEV/regexlearn.com/issues/274)
 
 Interested in adding your language? Please
-**[create an issue](https://github.com/aykutkardas/regexlearn.com/issues/new)** and let us know!
+**[create an issue](https://github.com/ePlus-DEV/regexlearn.com/issues/new)** and let us know!
 
 <br>
 
